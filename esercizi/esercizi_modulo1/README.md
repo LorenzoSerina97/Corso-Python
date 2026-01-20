@@ -34,7 +34,6 @@ python identikit.py
 2. **Cella Codice #1:** Calcola l'area di un rettangolo (larghezza × altezza)
 3. **Cella Markdown:** Spiega la formula usata
 4. **Cella Codice #2:** Crea una lista di numeri e calcola la somma
-5. **Cella Codice #3:** Usa un ciclo `for` per stampare i numeri pari da 0 a 10
 
 **Esecuzione:**
 
@@ -62,4 +61,3 @@ python rubrica_contatti.py
 1. **Prova prima da solo:** Leggi l'obiettivo e prova a scrivere il codice
 2. **Consulta le soluzioni:** Se sei bloccato, guarda i file di soluzione
 3. **Sperimenta:** Modifica i valori e aggiungi funzionalità extra
-4. **Debug:** Usa il debugger di VS Code per capire come funziona il codice
