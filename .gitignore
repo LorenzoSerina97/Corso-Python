@@ -1,3 +1,6 @@
 sorgenti
 esercizi_in_classe
 *(1).pdf
+__pycache__
+.vscode
+.venv
